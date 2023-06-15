@@ -16,4 +16,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://loluva.github.io/FrontEndMentor_QRCodeComponent/)
+- Solution URL: [FrontEndMentor_QRCodeComponent](https://loluva.github.io/FrontEndMentor_QRCodeComponent/)
